@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526642562386",
+    "firebase_url": "https://accessibility-loader.firebaseio.com",
+    "project_id": "accessibility-loader",
+    "storage_bucket": "accessibility-loader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526642562386:android:cf3f24d27167577315a68b",
+        "android_client_info": {
+          "package_name": "com.alexeyignatev.accessibilityloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526642562386-abpk3ieirbf1krvu6k4tbp5hrse0v25n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvd15c3EgYm9DG5G1Iyrz4AZKtSHkPOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526642562386-abpk3ieirbf1krvu6k4tbp5hrse0v25n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
